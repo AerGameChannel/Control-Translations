@@ -1,0 +1,49 @@
+public_beta_disabled_msg: Deshabilitado para la beta publica
+overview: Visión general
+quick_actions: Acciones rápidas
+
+dashboard: Tablero
+control_panel: Panel de control
+plugin_list: Lista de plugins
+logs: Registros
+keys: Llaves
+profile: Perfil de usuario
+public_beta: Beta pública
+
+server_overview: Vista general
+online_players: Jugadores Conectados
+online_staff: Staff Conectados
+online_admins: Admins Conectados
+new_players_today: Nuevos jugadores hoy
+welcome: Bienvenido!
+server_off: Servidor apagado
+have_a_nice_day: Ten un buen día!
+max_players: Jugadores máximos
+current_month: Máximo de jugadores
+past_month: Mes pasado
+active_players: Jugadores Activos
+new: Nuevo
+month: mes
+
+restart_round: Reiniciar ronda
+end_round: Acabar ronda
+restart_server: Reiniciar servidor
+shutdown: Apagar
+console_disabled: Consola Deshabilitada
+
+available_plugins: Plugins disponibles
+plugin: Plugin
+description: Descripción
+download_latest: Descargas más reciente
+
+configure: Configurar
+save: Guardar
+reset: Reiniciar
+
+server_secrets: Secretas del servidor
+copy_key: Copiar llave
+reset_key: Reiniciar llave
+get_another_key: Consigue otra llave!
+
+user: Usuario
+delete_acc: Eliminar cuenta
