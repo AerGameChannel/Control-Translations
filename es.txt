@@ -26,7 +26,7 @@ new: Nuevo
 month: mes
 
 restart_round: Reiniciar ronda
-end_round: Terminar ronda
+end_round: Acabar ronda
 restart_server: Reiniciar servidor
 shutdown: Apagar
 console_disabled: Consola Deshabilitada
