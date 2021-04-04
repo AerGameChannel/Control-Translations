@@ -13,7 +13,7 @@ public_beta: Beta pública
 server_overview: Vista general
 online_players: Jugadores Conectados
 online_staff: Staff Conectados
-online_admins: Admins Conectados
+online_admins: Administradores Conectados
 new_players_today: Nuevos jugadores hoy
 welcome: Bienvenido!
 server_off: Servidor apagado
