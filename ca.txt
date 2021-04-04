@@ -1,0 +1,49 @@
+public_beta_disabled_msg: Deshabilitat en la beta publica
+overview: Visió general
+quick_actions: Accions ràpides
+
+dashboard: Tauler
+control_panel: Panell de control
+plugin_list: Llista de plugins
+logs: Registres
+keys: Claus
+profile: Perfil
+public_beta: Beta pública
+
+server_overview: Vista general
+online_players: Jugadors Connectats
+online_staff: Staff Connectat
+online_admins: Administradors Connectats
+new_players_today: Nous jugadors hui
+welcome: Benvingut!
+server_off: Servidor apagat
+have_a_nice_day: Tingues un bon dia!
+max_players: Jugadors màxims
+current_month: Mes actual
+past_month: Mes passat
+active_players: Jugadors Actius
+new: Nou
+month: mes
+
+restart_round: Reiniciar ronda
+end_round: Acabar ronda
+restart_server: Reiniciar servidor
+shutdown: Apagar
+console_disabled: Consola Deshabilitada
+
+available_plugins: Plugins disponibles
+plugin: Plugin
+description: Descripció
+download_latest: Descarregar
+
+configure: Configurar
+save: Guardar
+reset: Reiniciar
+
+server_secrets: Secrets del servidor
+copy_key: Copiar clau
+reset_key: Reiniciar clau
+get_another_key: Obtingues altra clau!
+
+user: Usuari
+delete_acc: Eliminar compte
