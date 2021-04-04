@@ -1,4 +1,4 @@
-public_beta_disabled_msg: Deshabilitado para la beta publica
+public_beta_disabled_msg: Deshabilitado en la beta publica
 overview: Visión general
 quick_actions: Acciones rápidas
 
@@ -7,7 +7,7 @@ control_panel: Panel de control
 plugin_list: Lista de plugins
 logs: Registros
 keys: Llaves
-profile: Perfil de usuario
+profile: Perfil
 public_beta: Beta pública
 
 server_overview: Vista general
@@ -15,11 +15,11 @@ online_players: Jugadores Conectados
 online_staff: Staff Conectados
 online_admins: Administradores Conectados
 new_players_today: Nuevos jugadores hoy
-welcome: Bienvenido!
+welcome: ¡Bienvenido!
 server_off: Servidor apagado
-have_a_nice_day: Ten un buen día!
+have_a_nice_day: ¡Ten un buen día!
 max_players: Jugadores máximos
-current_month: Máximo de jugadores
+current_month: Mes actual
 past_month: Mes pasado
 active_players: Jugadores Activos
 new: Nuevo
@@ -34,16 +34,16 @@ console_disabled: Consola Deshabilitada
 available_plugins: Plugins disponibles
 plugin: Plugin
 description: Descripción
-download_latest: Descargas más reciente
+download_latest: Descargar
 
 configure: Configurar
 save: Guardar
 reset: Reiniciar
 
-server_secrets: Secretas del servidor
-copy_key: Copiar llave
-reset_key: Reiniciar llave
-get_another_key: Consigue otra llave!
+server_secrets: Secrets del servidor
+copy_key: Copiar clave
+reset_key: Reiniciar clave
+get_another_key: ¡Obtén otra clave!
 
 user: Usuario
 delete_acc: Eliminar cuenta
