@@ -40,7 +40,7 @@ configure: Configurar
 save: Guardar
 reset: Reiniciar
 
-server_secrets: Secrets del servidor
+server_secrets: Claves del servidor
 copy_key: Copiar clave
 reset_key: Reiniciar clave
 get_another_key: ¡Obtén otra clave!
