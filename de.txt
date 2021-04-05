@@ -8,11 +8,11 @@ plugin_list: Plugin Liste
 logs: Logs
 keys: Schlüssel
 profile: Benutzer Profil
-public_beta: Öggentliche Beta
+public_beta: Öffentliche Beta
 
 server_overview: Server Übersicht
 online_players: Online Spieler
-online_staff: Online Staff
+online_staff: Online Mitarbeiter
 online_admins: Online Admins
 new_players_today: Heutige neue Spieler
 welcome: Willkommen!
