@@ -1,0 +1,49 @@
+public_beta_disabled_msg: Açık Beta için devre dışı bırakıldı
+overview: Genel Bakış
+quick_actions: Hızlı Eylemler
+
+dashboard: Gösterge Paneli
+control_panel: Kontrol Paneli
+plugin_list: Plugin Listesi
+logs: Kayıtlar
+keys: Anahtarlar
+profile: Kullanıcı Profili
+public_beta: Açık Beta
+
+server_overview: Sunucuya Genel Bakış
+online_players: Çevrimiçi Oyuncular
+online_staff: Çevrimiçi Personel
+online_admins: Çevrimiçi Yöneticiler
+new_players_today: Bugün Gelen Yeni Oyuncular
+welcome: Hoşgeldiniz!
+server_off: Sunucu Kapalı
+have_a_nice_day: İyi günler!
+max_players: Maksimum Oyuncu
+current_month: İçinde bulunduğumuz ay
+past_month: Geçen ay
+active_players: Aktif Oyuncular
+new: Yeni
+month: ay
+
+restart_round: Raundu Yeniden Başlat
+end_round: Raundu Bitir
+restart_server: Sunucuyu Yeniden Başlat
+shutdown: Sunucuyu KAPAT
+console_disabled: Konsol Devredışı bırakıldı
+
+available_plugins: Kullanılabilir Pluginler
+plugin: Plugin
+description: Açıklama
+download_latest: En Son Sürümü İndir
+
+configure: Konfigüre
+save: Kaydet
+reset: Sıfırla
+
+server_secrets: Sunucu Özel Bilgileri
+copy_key: Anahtarı Kopyala
+reset_key: Anahtarı Sıfırla
+get_another_key: Farklı bir anahtar al!
+
+user: Kullanıcı
+delete_acc: Hesabı sil
