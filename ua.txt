@@ -5,18 +5,18 @@ quick_actions: Дія
 dashboard: Панель
 control_panel: Панель управління
 plugin_list: Список плагінів
-logs: Логи
+logs: Журнал
 keys: Ключі
 profile: Профіль
 public_beta: Публічна бета-версія
 
 server_overview: Огляд сервера
 online_players: Гравців в мережі
-online_staff: Участников команды в сети
+online_staff: Учасників команди в мережі
 online_admins: Адмінів в мережі
 new_players_today: Нових гравців за сьогодні
 welcome: Ласкаво просимо!
-server_off: Сервер відключений
+server_off: Сервер виключений
 have_a_nice_day: Гарного дня!
 max_players: Максимум гравців
 current_month: Цей месяць
@@ -27,7 +27,7 @@ month: місяць
 
 restart_round: Перезапустити раунд
 end_round: Завершити раунд
-restart_server: Перезавантажити сервер
+restart_server: Перезапустити сервер
 shutdown: Вимкнути сервер
 console_disabled: Консоль відключена
 
